@@ -57,4 +57,4 @@ This project is a **responsive website** for a car repair service. It features a
 Author
 Asif Iqbal
 Beginner Full Stack Web Developer
-Passionate about crafting visually appealing and meaningful web projects.
+Passionate about crafting visually appealing and meaningful web projects
