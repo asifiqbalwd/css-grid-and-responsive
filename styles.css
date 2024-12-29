@@ -190,10 +190,10 @@ body {
 
 /* Footer */
 .footer {
-  background: #e5e5e5;
-  color: #000000;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  background: #e5e5e5;
+  color: #000000;
   padding: 20px;
   text-align: center;
 }
